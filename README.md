@@ -21,6 +21,15 @@ Builds mais otimizadas e menores para melhor performance nos clientes e análise
 Este projeto tem a finalidade de se divertir criando as mais loucas e impossíveis histórias no universo StarWars<br>
 **Clique em 1 botão e se divirta!**
 
+A idéia é randomizar tudo, e assim criar várias situações possíveis com os dados da [SWAPI](https://swapi.co/).<br>
+Levando em consideração o guia de Storytelling da Pixar.<br>
+`Era uma vez _________.`
+`'Todos os dias ___________.`
+`Um certo dia _________.`
+`Por causa disso, ________.`
+`Por causa disso___________.`
+`Até que finalmente __________.`
+
 # Comandos
 
 Eu sempre prefiro utilizar o [yarn](https://yarnpkg.com/pt-BR/) pela funcionalidade de baixar os pacotes em paralelo. Se desejar utilizá-lo basta rodar o seguinte comando no seu prompt.<br>
